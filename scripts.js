@@ -1,3 +1,3 @@
 console.log(typeof $);
 
-$("#headline").fadeIn(5000);
+$("#headline").fadeIn(2500);
