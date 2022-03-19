@@ -117,3 +117,9 @@ article {
 .third-article-container {
   background-color: #a69991;
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  color: #000;
+}
