@@ -1,3 +1,3 @@
 console.log(typeof $);
 
-$("#headline").fadeIn(2500);
+$("#headeranimation").fadeIn(2500);
