@@ -118,6 +118,10 @@ article {
   background-color: #a69991;
 }
 
+#headeranimation {
+    display:none;
+  }
+
 footer {
   text-align: center;
   margin-bottom: 30px;
